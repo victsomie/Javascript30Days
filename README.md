@@ -17,3 +17,10 @@ and commiting & logging what I have learnt on daily basis.
 ## LOGS
 
 ### Day 1: 3 Jan 2019
+
+- Worked on and finished Drum Kit challenge.
+
+**Concepts:** 
+- Working with event listeners
+- Cool summary of event keycodes at [keycode.info](http://keycode.info/)
+
