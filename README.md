@@ -24,3 +24,7 @@ and commiting & logging what I have learnt on daily basis.
 - Working with event listeners
 - Cool summary of event keycodes at [keycode.info](http://keycode.info/)
 
+### Day 1: 5 Jan 2019
+
+- Finished on CSS clock challenge.
+
