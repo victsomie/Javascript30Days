@@ -18,13 +18,21 @@ and commiting & logging what I have learnt on daily basis.
 
 ### Day 1: 3 Jan 2019
 
-- Worked on and finished Drum Kit challenge.
+Worked on and finished Drum Kit challenge.
 
 **Concepts:** 
-- Working with event listeners
-- Cool summary of event keycodes at [keycode.info](http://keycode.info/)
+Working with event listeners
+Cool summary of event keycodes at [keycode.info](http://keycode.info/)
 
-### Day 1: 5 Jan 2019
+### Day 2: 4 Jan 2019
 
 - Finished on CSS clock challenge.
+**Concepts:**
+How to modify CSS using Vanilla JS
+
+### Day 3: 5 Jan 2019
+
+**Concepts:**
+ Working with CSS variables, color and range pickers on HTML
+
 
