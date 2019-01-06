@@ -31,8 +31,15 @@ Cool summary of event keycodes at [keycode.info](http://keycode.info/)
 How to modify CSS using Vanilla JS
 
 ### Day 3: 5 Jan 2019
-
+CSS Variables challenge
 **Concepts:**
  Working with CSS variables, color and range pickers on HTML
+ 
+### Day 4: 6 Jan 2019
+Array Cardio day 1 challenge
+**Concepts:**
+Arrays, arrow function, Ternery operation
 
-
+A ternary is like a shorthand if statement
+**Resource:** [https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4](Map, filter & reduce medium blog)
+LEFT AT 7.50 MINUTES
