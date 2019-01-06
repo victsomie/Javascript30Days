@@ -37,9 +37,10 @@ CSS Variables challenge
  
 ### Day 4: 6 Jan 2019
 Array Cardio day 1 challenge
-**Concepts:**
-Arrays, arrow function, Ternery operation
 
+Arrays functions: Map, Filter and Reduce
+
+**Concepts:** Arrow function, Ternery operation. 
 A ternary is like a shorthand if statement
 **Resource:** [https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4](Map, filter & reduce medium blog)
-LEFT AT 7.50 MINUTES
+
