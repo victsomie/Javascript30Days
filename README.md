@@ -44,3 +44,9 @@ Arrays functions: Map, Filter and Reduce
 A ternary is like a shorthand if statement
 **Resource:** [https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4](Map, filter & reduce medium blog)
 
+### Day 5: 7 Jan 2019
+Flex Panel Gallery
+
+**Concepts:**
+
+Using flexbox, Nesting flex, Toggle classes
