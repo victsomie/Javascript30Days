@@ -49,4 +49,15 @@ Flex Panel Gallery
 
 **Concepts:**
 
-Using flexbox, Nesting flex, Toggle classes
+Using flexbox, Nesting flex, Toggle 
+
+### Day 6: 8 Jan 2019
+Type Ahead challenge
+
+**Concepts:**
+
+Using FETCH api to query endpoint, Promisse concept.
+
+Using a variable into a regular expression, More event listeners(CHANGE and KEYUP) on search input field
+
+
