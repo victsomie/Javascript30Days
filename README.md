@@ -60,4 +60,18 @@ Using FETCH api to query endpoint, Promisse concept.
 
 Using a variable into a regular expression, More event listeners(CHANGE and KEYUP) on search input field
 
+### Day 7: 9 Jan 2019
+Array Cardio day 2 challenge
+
+**Concepts:**
+
+Covered array functions: some(), every(), find(), findIndex(), splice(), slice()
+
+- some() : Return when one of the array items achieve the condition
+
+- every() : Checks if all the array items fulfill the condition
+
+- find() : Returns the item that fulfills the condition givens
+
+- findIndex : Return the index of the searched item
 
