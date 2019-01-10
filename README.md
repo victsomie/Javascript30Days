@@ -75,3 +75,11 @@ Covered array functions: some(), every(), find(), findIndex(), splice(), slice()
 
 - findIndex : Return the index of the searched item
 
+### Day 8: 10 Jan 2019
+HTML5 Canvas challenge
+
+**Concepts:**
+
+Canvas context, context methods, HSL, setting flags to help in  conditions
+
+[http://mothereffinghsl.com/] (Mother effing feature)
