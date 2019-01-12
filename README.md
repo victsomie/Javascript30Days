@@ -84,11 +84,18 @@ Canvas context, context methods, HSL, setting flags to help in  conditions
 
 [http://mothereffinghsl.com/] (Mother effing feature)
 
-### Day 8: 10 Jan 2019
+### Day 8: 11 Jan 2019
 Developer tools challenge
 
-**Concept**
+**Concept:**
 
-Break point on DTs, more console functions: log(), error(), warn(), info(), asseert(), time(), timeEnd() 
+Break point on DTs, more console functions: log(), error(), warn(), info(), assert(), count(), time(), timeEnd() 
+
+### Day 9: 12 Jan 2019
+Check box challenge
+
+**Concepts:**
+
+Creating actions with shift key checked: Example with ShiftKey and CheckBox
 
 
