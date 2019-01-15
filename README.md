@@ -98,7 +98,11 @@ Check box challenge
 
 Creating actions with shift key checked: Example with ShiftKey and CheckBox
 
-### Day 10: 13 Jan 2019
+### Day 10: 15 Jan 2019
 Custom Video Player
+
+**Concepts:**
+
+Playing around more event listeners
 
 
