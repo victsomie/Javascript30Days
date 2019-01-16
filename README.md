@@ -84,21 +84,21 @@ Canvas context, context methods, HSL, setting flags to help in  conditions
 
 [http://mothereffinghsl.com/] (Mother effing feature)
 
-### Day 8: 11 Jan 2019
+### Day 9: 11 Jan 2019
 Developer tools challenge
 
 **Concept:**
 
 Break point on DTs, more console functions: log(), error(), warn(), info(), assert(), count(), time(), timeEnd() 
 
-### Day 9: 12 Jan 2019
+### Day 10: 12 Jan 2019
 Check box challenge
 
 **Concepts:**
 
 Creating actions with shift key checked: Example with ShiftKey and CheckBox
 
-### Day 10: 15 Jan 2019
+### Day 11: 15 Jan 2019
 Custom Video Player
 
 **Concepts:**
@@ -106,3 +106,12 @@ Custom Video Player
 Playing around more event listeners
 
 
+### Day 11: 16 Jan 2019
+
+Key sequence detection (KONAMI CODE)
+
+**Concepts:**
+
+- Using ``keyup`` event listener to get key sequencing detection
+
+- Store them in an array and check if they match your word
