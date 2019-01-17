@@ -106,7 +106,7 @@ Custom Video Player
 Playing around more event listeners
 
 
-### Day 11: 16 Jan 2019
+### Day 12: 16 Jan 2019
 
 Key sequence detection (KONAMI CODE)
 
@@ -115,3 +115,15 @@ Key sequence detection (KONAMI CODE)
 - Using ``keyup`` event listener to get key sequencing detection
 
 - Store them in an array and check if they match your word
+
+### Day 13: 17 Jan 2019
+
+Slide in on Scroll
+
+**Concepts:**
+
+Scroll and timing function with DEBOUNCE
+
+Window scroll positions: scrollY, scrollX
+
+Element offset position: offsetTop
