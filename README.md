@@ -127,3 +127,13 @@ Scroll and timing function with DEBOUNCE
 Window scroll positions: scrollY, scrollX
 
 Element offset position: offsetTop
+
+### Day 14: 18 Jan 2019
+
+Javascript references VS copy
+
+**Concepts:**
+
+Copying arrays and objects verses referencing them.
+
+JSON.parse,JSON.stringfy, 
