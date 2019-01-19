@@ -136,4 +136,14 @@ Javascript references VS copy
 
 Copying arrays and objects verses referencing them.
 
-JSON.parse,JSON.stringfy, 
+JSON.parse,JSON.stringfy
+
+### Day 15: 19 Jan 2019
+
+Local Storage
+
+**Concepts:**
+
+- Using the localStorage - Fetching(`localStorage.getItem()`) and updating(`localStorage.setItem()`), 
+
+- Event delegations - Passing an event to specific children
