@@ -147,3 +147,12 @@ Local Storage
 - Using the localStorage - Fetching(`localStorage.getItem()`) and updating(`localStorage.setItem()`), 
 
 - Event delegations - Passing an event to specific children
+
+### Day 16: 20 Jan 2019
+
+Mouse Move Text shadow
+
+**Concepts:**
+
+Mouse move event to change text shadow property
+
