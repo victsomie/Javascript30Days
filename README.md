@@ -156,3 +156,11 @@ Mouse Move Text shadow
 
 Mouse move event to change text shadow property
 
+
+### Day 17: 21 Jan 2019
+
+**Concepts:**
+
+Sorting an array of strings
+
+
