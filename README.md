@@ -159,8 +159,21 @@ Mouse move event to change text shadow property
 
 ### Day 17: 21 Jan 2019
 
+Sorting array of strings alphabetically
+
 **Concepts:**
 
 Sorting an array of strings
 
+### Day 18: 22 Jan 2019
+
+Adding up videos time.
+
+**Concept**
+
+ - Increamenting array total with `reduce()`.
+
+ - `Parsefloat` on arrays to convert strings
+ 
+ - Converting nodeList to array with `Array.from()`
 
